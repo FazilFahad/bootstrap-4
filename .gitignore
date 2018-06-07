@@ -7,5 +7,6 @@ Thumbs.db
 .tmp
 .log
 .psd
+*.map
 assets/css/.sass-cache
 assets/css/.sass-cache/*
